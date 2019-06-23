@@ -6,7 +6,7 @@
     
    <h2>Cursos realizados ou em andamento:</h2>
     <ul>
-        <li>Java Script</li>
+        <li>JavaScript</li>
     </ul>
     
 
